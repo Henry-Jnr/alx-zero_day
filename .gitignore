@@ -1,0 +1,2 @@
+~/files
+$ echo "~">.gitignore(enter)
